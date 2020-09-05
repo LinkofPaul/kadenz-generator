@@ -1,0 +1,9 @@
+{
+    "name": "Kadenz Generator",
+    "short_name": "Kadenz",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#F5F5F5",
+    "theme_color": "#F5F5F5",
+    "orientation": "portrait-primary"
+}
