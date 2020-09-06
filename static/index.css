@@ -1,0 +1,30 @@
+.margin-bottom-zero{
+    margin-bottom: 0rem;
+}
+
+.margin-bottom-one{
+    margin-bottom: 0.5rem;
+}
+
+.index-class {
+    max-width: 375px;
+    padding-top: 100px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+@media (max-height: 750px) {
+    .index-class {
+      padding-top: 50px;
+    }
+}
+  
+@media (max-height: 500px) {
+    .index-class {
+      padding-top: 10px;
+    }
+}
