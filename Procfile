@@ -1,0 +1,1 @@
+web: gunicorn kadenzGenerator:app --log-file - 
